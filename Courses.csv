@@ -1,24 +1,29 @@
-Courses,ID,SUBJECT,Mentors
-Advanced Python,CS 372,Health Care,Phoebe Ramsey
- R and Software Development,CS 516,Health Care,Merritt Marshall
- Fundamentals of Java Programming,CS 338,Health Care,Neil Cantrell
- Web Development or Full Stack Developer,INF 335,Health Care,Coby Cain
- Google Cloud Platform Architecture,INF 540,Cyber Security,Sasha Kane
- JavaScript,IST 522,Cyber Security,Shelley Wilson
- Angular 6,IST 587,Cyber Security,Valentine Beach
- Redux and React,IST 416,Sales Force Training,Ray Wright
- Android N Developer,INF 330,Sales Force Training,Mohammad Tate
- iOS 11 and Swift Developer,MAT 346,Sales Force Training,Elijah Guthrie
- Nodejs Developer,INF 348,Sales Force Training,Guinevere Mcintosh
- C++ and Unreal Engine Developer Course,MAT 352,Sales Force Training,MacKenzie Kramer
- Master Jenkins,MAT 377,Effective Leadership,Miranda Henson
- Docker Mastery,CS 303,Effective Leadership,Ainsley Cooke
- Cyber Security Course,CS 375,Effective Leadership,Lesley Stuart
- MSc in Computer Science,CS 498,Effective Leadership,Lenore William
- PG Diploma in Software Development Specialisation in Blockchain,INF 533,Health Care,Octavius Rodriguez
- Executive Program in Blockchain Technology Management,INF 519,Effective Leadership,Kaitlin Hyde
- PG Certificate Program in Big Data & Analytics,INF 553,Cyber Security,Gemma Irwin
- PG Program in Big Data Engineering,INF 342,Cyber Security,Sebastian Gallagher
- Master of Science in Data Science,CS 477,Cyber Security,Ezra Barlow
- PG Diploma in Machine Learning and AI,CS 468,Health Care,Kadeem Weaver
- Advanced Certificate Program in Machine Learning,CS 323,Health Care,Nasim Waller
+Mentors,Courses,ID,Subject
+Hashim Finch,Cybersecurity Management,CST 101,Cyber Security
+Mark Wiggins,Secure Systems Analysis & Design,CST 200,Cyber Security
+Venus Morse,Network Design and Management,CST 548,Cyber Security
+Nathaniel Contreras,Forensics and Network Intrusion,CST 279,Cyber Security
+Nomlanga Vincent,Cybersecurity Management I - Strategic,CST 583,Cyber Security
+Lars Justice,Secure Software Design,CST 285,Cyber Security
+Melinda Stokes,Leadership Fundamentals,EFL 100,Effective Leadership
+Olivia Powers,New Manager Training in Essential Skills,EFL 101,Effective Leadership
+Kelly Green,International Leadership Skills for the Workplace,EFL 200,Effective Leadership
+Rylee Bauer,Leadership for Senior Executives,EFL 201,Effective Leadership
+Anika Vasquez,Digital leaders,EFL 202,Effective Leadership
+Graham Mercer,Leadership Strategies: The Effective Use of Power,EFL 300,Effective Leadership
+Constance Daniels,Leading the Modern Day Business,EFL 301,Effective Leadership
+Asher Cardenas,Leadership Communication (with Practice Exercises),EFL 302,Effective Leadership
+Ronan Cleveland,Inclusive Leadership,EFL 303,Effective Leadership
+Cyrus Mcknight,Strategy Execution,EFL 400,Effective Leadership
+Uriah Cook,Health Care Policies and Economics ,HC 274,Health Care
+Aladdin Beasley,Public Health Leadership Styles and Development ,HC 193,Health Care
+Isadora Brock,Essential Health Care Business Analysis ,HC 324,Health Care
+Vladimir Holmes,Health Care Networking and Professional Readiness ,HC 602,Health Care
+Meghan Nichols,Analysis of Contemporary Health Care Delivery Models,HC 507,Health Care
+Dante Contreras,Health Care Delivery Models ,HC 357,Health Care
+Lenore Cameron,Legal and Ethical Principles in Health ,HC 586,Health Care
+Wyatt Lewis,Design and Implement B2B Multi-Cloud Solutions,SFT 422,Sales Force Training
+Oleg Frank,Trailblazer Virtual Bootcamp for Salesforce Associates,SFT 560,Sales Force Training
+Hakeem Landry,Trailblazer Virtual Bootcamp for New Marketers,SFT 514,Sales Force Training
+Steel Abbott,Administer Extend and Automate Salesforce,SFT 384,Sales Force Training
+Kameko Aguilar,Administer and Maintain Service Cloud,SFT 519,Sales Force Training
